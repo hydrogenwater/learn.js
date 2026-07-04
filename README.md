@@ -40,7 +40,7 @@ Your go-to cheat sheet. Use this to quickly recall syntax, mnemonics, and key ta
 
 ## 💡 How to Use This Guide
 
-1. **Read the Guides**: Start with the foundational chapters (01 and 03). Pay special attention to the highlighted `> **Analogies**` and `> **🔀 Functional Perspectives**`.
+1. **Read the Guides**: Start with the foundational chapters (01 and 03). Pay special attention to the highlighted **Mental Models** and **🔀 Functional Perspectives** callouts throughout each chapter.
 2. **Solve the Problems**: When tackling chapters 02 and 04, try solving the problems in your own editor before looking at the hints or solutions.
 3. **Review the Cheat Sheet**: Keep Chapter 06 handy as a quick reference while you code.
 
